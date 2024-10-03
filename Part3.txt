@@ -1,0 +1,70 @@
+JavaScript DOM Review Quiz
+--------------------------
+
+Part 3: Multiple Choice Questions
+---------------------------------
+
+Select the correct answer from the choices provided.
+____________________________________________________
+
+
+1. Which of the following is used to add an element to the DOM? B
+a) document.removeChild()
+b) document.appendChild()
+c) document.addElement()
+d) document.insertElement()
+
+
+2. What method can be used to set a repeating timer in JavaScript? B
+a) setTimer()
+b) setInterval()
+c) setTimeout()
+d) repeatInterval()
+
+3. How do you save a reference to an HTML element using JavaScript? C
+a) document.saveElement()
+b) element.query()
+c) document.querySelector()
+d) element.querySave()
+
+4. What is the main difference between .innerText and .innerHTML? A
+a) .innerText sets only text, while .innerHTML can set HTML content.
+b) .innerHTML sets only text, while .innerText can set HTML content.
+c) .innerText is faster than .innerHTML.
+d) There is no difference between them.
+
+5. What does the defer attribute do in a <script> tag? C
+a) It prevents the JavaScript file from loading. 
+b) It loads the JavaScript file before the page content is fully loaded.
+c) It delays the execution of the JavaScript file until the HTML page is fully loaded.
+d) It allows the JavaScript file to run inline.
+
+6. What is an anonymous function in JavaScript? B
+a) A function with no return statement.
+b) A function without a name.
+c) A function that never executes.
+d) A function that is only used in debugging.
+
+7. To query the value of an input field, which property do you use? A
+a) value
+b) inputValue
+c) textContent
+d) fieldContent
+
+8. How do you check if two objects are the same in JavaScript? A
+a) ===
+b) .isEqual()
+c) .compareTo()
+d) ==
+
+9. Which of the following is used to manipulate CSS transitions in JavaScript? A
+a) style.transition
+b) style.animation
+c) style.move()
+d) style.transform
+
+10. What method is used to stop an interval set by setInterval()? A
+a) clearTimeout()
+b) clearInterval()
+c) stopInterval()
+d) stopTimeout()
